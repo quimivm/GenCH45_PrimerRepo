@@ -10,6 +10,6 @@ Tareas:
 5. Verificar los cambios 
 
 ---
->Blockquote En caso de querer descargar cambios realizados utiliza ``` git pull origin main ```
+> En caso de querer descargar cambios realizados utiliza ``` git pull origin main ```
 
-![Image] (https://github.com/fluidicon.png)
+![Image](https://github.com/fluidicon.png)
